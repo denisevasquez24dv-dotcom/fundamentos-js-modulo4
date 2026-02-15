@@ -17,7 +17,7 @@ Modularización con funciones y callbacks
 
 Almacenamiento y manipulación de datos 
 - Arreglo de objetos: para los resultados utilice un arreglo llamado mis resultados que contiene objetos literales, esto lo implemente por la organización, ya que permite agrupar el nombre de la operación con su valor correspondiente en una sola estructura.
-- Método de arreglo (forEach): Implemente el ForEach para recorrer los datos de forma limpia y mostrar los resultados, reemplazando bucles más complejos y mejorando la legibilidad.
+- Método de arreglo (forEach): Implemente el forEach para recorrer los datos de forma limpia y mostrar los resultados, reemplazando bucles más complejos y mejorando la legibilidad.
 
 Lógica de filtrado 
 - Implemente un bucle for, con una condición lógica doble como el tipo de dato y valor superior a 10 para extraer información específica y así cumplir con el filtrado de datos.
