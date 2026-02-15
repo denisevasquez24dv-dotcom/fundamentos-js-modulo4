@@ -29,7 +29,7 @@ Uso de let y const
 En el desarrollo de este proyecto implemente de manera práctica los pilares fundamentales de JavaScript aprendidos en el módulo, siendo un reto que me permitió pasar de la teoría a la práctica entendiendo el porqué de cada línea de código.
 El desarrollar validaciones con while e isNaN, para que el programa no sea solo una secuencia de pasos, sino un sistema inteligente que entiende si el usuario comete un error, con el objetivo de garantizar que los datos sean correctos antes de procesarlos. 
 En relación a las funciones y callbacks, desarrolle una estructura donde una función puede recibir otra como parámetro, esto lo realice para que el código sea mas ordenado y profesional evitando repetir las mismas instrucciones para cada operación matemática.
-El manejo de arreglos y objetos, estas estructuras permiten agrupar toda la información del usuario en un solo lugar y asegura que los datos no estén sueltos sino organizados y así facilitar su lectura con ForEach.
+El manejo de arreglos y objetos, estas estructuras permiten agrupar toda la información del usuario en un solo lugar y asegura que los datos no estén sueltos sino organizados y así facilitar su lectura con forEach.
 Con el desarrollo de este proyecto aprendí que programar no es solo hacer que algo funcione, sino anticiparse a los errores, como el caso de la división por cero.
 
 4.Referencias 
