@@ -1,7 +1,7 @@
 Proyecto: Aplicación en Consola 
 
 Nombre: Denise Vásquez Espinoza
-Modulo: Fundamentos de Programación en JavaScript 
+Modulo: 4 Fundamentos de Programación en JavaScript 
 
 1.Introducción 
 Este proyecto consiste en una aplicación interactiva que se ejecuta en la consola del navegador. El objetivo es captura datos del usuario, realizar cálculos matemáticos básicos y procesar esta información mediante estructuras de datos como objetos y arreglos.
@@ -46,6 +46,9 @@ Con el desarrollo de este proyecto aprendí que programar no es solo hacer que a
 Ejemplos y repositorios en GitHub
 - Ejercicios de JavaScript en GitHub
 - Repositorio con ejemplos prácticos de JavaScript
+
+Enlace al repositorio de Git Hub 
+https://github.com/denisevasquez24dv-dotcom/fundamentos-js-modulo4 
 
 Capturas de pantalla: 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b5d3dd07-ba08-43de-a598-75723a15cb20" />
